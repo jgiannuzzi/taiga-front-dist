@@ -9,6 +9,7 @@
     "defaultLanguage": "en",
     "themes": ["taiga"],
     "defaultTheme": "taiga",
+    "passwordLoginEnabled": true,
     "publicRegisterEnabled": true,
     "feedbackEnabled": true,
     "privacyPolicyUrl": null,
